@@ -7,6 +7,5 @@ public class Codeup_41 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         char a = br.readLine().charAt(0);
         System.out.println((char) (a+1));
-
     }
 }
